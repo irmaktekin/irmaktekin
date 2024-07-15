@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Irmak Tekin</h1>
 <h3 align="center">A PL/SQL developer with a passion for Java</h3>
 
-- 🔭 I’m currently working on **railTMS Order and Transport Management System**
+- 🔭 I’m currently working on **railTMS Order and Transport Management System.
 
 - 🌱 I’m currently learning **Java, Spring Boot, JPA, and Hibernate through the Patika Backend Web Developer Bootcamp.
 
