@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java, Spring Boot, JPA, and Hibernate through the Patika Backend Web Developer Bootcamp**
 
-- 👯 I’m looking to collaborate on **I’m looking to collaborate on Java projects to expand my skills and contribute to impactful software solutions.**
+- 👯 I’m looking to collaborate on Java projects to expand my skills and contribute to impactful software solutions.**
 
 - 📫 How to reach me **irmaktekin97@gmail.com**
 
